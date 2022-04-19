@@ -1,0 +1,55 @@
+.principal{
+    font-family: 'Inter', sans-serif;
+    position: absolute;
+    width: 800px;
+    height: 800px;
+    left: 381px;
+    top: 116px;
+    background-color: #F5EBDC;
+    text-align: center;
+}
+
+
+img{
+    width: 100px;
+   
+}
+
+.texto_vermelho{
+    color: #D42401;
+}
+
+.texto_amarelo{
+    color: #fbac61;
+}
+.texto_marron{
+    color: #502314;;
+
+}
+
+.conteudo{
+    display: flex;
+    
+
+}
+
+
+
+.lanche{
+    justify-content: space-around;
+    margin-left: 15px;
+    background-color: white;
+    margin-right: 15px;
+}   
+
+
+.lanche:hover{
+    background-color: red;
+}
+.sumir{
+    visibility: hidden;
+    background-color: white;
+    visibility: hidden;
+}
+
+
